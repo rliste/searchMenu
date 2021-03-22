@@ -133,7 +133,7 @@ Widget eventSearchDropDownButton(context){
 Widget calendarSearchButton(context){
   return Container(
     width: MediaQuery.of(context).size.width * 0.90,
-    height: 50.0,
+    height: 40.0,
     decoration: BoxDecoration(
       color: Colors.grey[100],
       borderRadius: BorderRadius.circular(10)
